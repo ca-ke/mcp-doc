@@ -6,5 +6,8 @@ dist/
 wheels/
 *.egg-info
 
+# Vectorstore
+*.parquet
+
 # Virtual environments
 .venv
